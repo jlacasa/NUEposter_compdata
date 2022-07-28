@@ -2,4 +2,4 @@
 
 ## Field data  
 
-![ ](../figures/crop_curves.tiff)
+![ ](../figures/crop_curves.png)
