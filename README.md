@@ -1,10 +1,10 @@
 # Supplementary material for NUE poster "Comparing statistical frameworks to fit critical dilution curves and enhancing in-season N diagnostics"  
 
-### J. Lacasa$^{\text{a,b}}$ *, D. Makowski$^\text{b}$, T. Hefley$^\text{c}$, E. van Versendaal$^\text{a}$, J. Fernandez$^\text{a}$, G. Lemaire$^\text{d}$, I. Ciampitti$^\text{a}$.  
-$a$ Department of Agronomy, Kansas State University – Manhattan, Kansas, USA.  
-$b$ University Paris-Saclay, INRAE, AgroParisTech – Palaiseau, FR.  
-$c$ Department of Statistics, Kansas State University – Manhattan, Kansas, USA.  
-$d$ Honorary Director of Research, INRAE, – Lusignan, FR.  
+### J. Lacasa<sup>a,b</sup>*, D. Makowski<sup>b</sup>, T. Hefley<sup>c</sup>, E. van Versendaal<sup>a</sup>, J. Fernandez<sup>a</sup>, G. Lemaire<sup>d</sup>, I. Ciampitti<sup>a</sup>.  
+<sup>a</sup> Department of Agronomy, Kansas State University – Manhattan, Kansas, USA.  
+<sup>b</sup> University Paris-Saclay, INRAE, AgroParisTech – Palaiseau, FR.  
+<sup>c</sup> Department of Statistics, Kansas State University – Manhattan, Kansas, USA.  
+<sup>d</sup> Honorary Director of Research, INRAE, – Lusignan, FR.  
 *Corresponding author: `lacasa@ksu.edu`.   
 
 ## An abstract from the Proceedings of the 2022 Nitrogen Use Efficiency Workshop  
@@ -19,7 +19,7 @@ The critical nitrogen dilution curve (CNDC) is a relevant model underpinning the
 Bayesian modeling, Hierarchical modeling, N fertilization, fertilizer use efficiency.  
 
 ## See more detailed results:  
-[Field data]()  
-[Simulation study]()  
+[Field data](https://github.com/jlacasa/NUEposter_compdata/blob/master/markdown/field_data.md)  
+[Simulation study](https://github.com/jlacasa/NUEposter_compdata/blob/master/markdown/results_simulation_study.md)  
 
 
