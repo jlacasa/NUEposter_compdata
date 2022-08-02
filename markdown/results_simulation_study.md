@@ -2,7 +2,7 @@
 
 ## Simulation study  
 
-Overall, the hierarchical model outperformed the sequential model in all aspects.  
+Overall, the hierarchical model outperformed the sequential model in all aspects. We evaluated both frameworks under simulated conditions under different scenarios, with varying amount of N rates (3, 4, 5), amount of sampling times (4, 8, 16), and distribution of %N data with respect to %N<sub>C</sub> (few data above %N<sub>C</sub>, some data above %N<sub>C</sub>, many data above %N<sub>C</sub>). This resulted in a total of 27 scenarios where we compared the frameworks' performances.     
 
 **Table 1.** Relative root mean squared error (RRMSE) and percentage bias error (PBE, %) for A1 and A2 with the sequential and hierarchical frameworks, for different types of datasets with 5 N rates.  
 
